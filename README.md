@@ -4,10 +4,10 @@ This is a userscript which can forcefully enable scrolling on most websites.
 
 Some website prevent users from scrolling in certain situations, especially after a paywall block or nsfw block (reddit lol). You can combo this script with your adblocker as a workaround for that!
 
-Tested on: Firefox Mobile (Iceraven) using Tampermonkey
+Tested on: Firefox Mobile using Violentmonkey (Tampermonkey works too but not recommended)
 
 # How to use
-1. First install a userscript manager such as Tampermonkey
+1. First install a userscript manager such as Violentmonkey
 2. Then click on the + icon in the addon/extension's settings page
 3. Now paste this code and save!
 
